@@ -11,3 +11,4 @@ Foreign Direct Investment Analytics
 different events but it is still a game of chances to minimize the risk we apply analytics
 to find the equilibrium investment.
 # Dataset:
+https://github.com/Mili-byte926/Foreign-Direct-Investment-Analytics/blob/main/FDI%20data.csv
