@@ -12,3 +12,5 @@ different events but it is still a game of chances to minimize the risk we apply
 to find the equilibrium investment.
 # Dataset:
 [Download Data](https://github.com/Mili-byte926/Foreign-Direct-Investment-Analytics/blob/main/FDI%20data.csv)
+# Tools Use:
+Python,Power BI,Jupyter notebook,Excel,Power Point 
