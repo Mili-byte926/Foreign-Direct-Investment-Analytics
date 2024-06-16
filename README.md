@@ -14,3 +14,5 @@ to find the equilibrium investment.
 [Download Data](https://github.com/Mili-byte926/Foreign-Direct-Investment-Analytics/blob/main/FDI%20data.csv)
 # Tools Use:
 Python,Power BI,Jupyter notebook,Excel,Power Point 
+# Foreign Direct Investment Analytics Dashboard:
+![image](https://github.com/Mili-byte926/Foreign-Direct-Investment-Analytics/assets/118957525/91328fa6-3de9-4ec1-a43f-66e6002c6ed1)
